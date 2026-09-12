@@ -260,3 +260,6 @@ This repository serves as the official landing page for Kaspersky Internet Secur
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Kaspersky Internet Security today!**
+
+---
+**Last updated:** 2026-09-12 12:38:40 UTC
