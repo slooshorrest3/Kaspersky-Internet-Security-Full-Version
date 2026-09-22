@@ -262,4 +262,4 @@ This repository serves as the official landing page for Kaspersky Internet Secur
 **Get the most recent version of Kaspersky Internet Security today!**
 
 ---
-**Last updated:** 2026-09-22 09:03:52 UTC
+**Last updated:** 2026-09-22 14:22:41 UTC
